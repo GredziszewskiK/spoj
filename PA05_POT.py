@@ -1,3 +1,5 @@
+# link do zadania
+# https://pl.spoj.com/problems/PA05_POT/
 import sys
 import math
 

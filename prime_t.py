@@ -1,3 +1,5 @@
+# link do zadania
+# https://pl.spoj.com/problems/prime_t/
 import math
 import sys
 

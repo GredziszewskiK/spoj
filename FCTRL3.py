@@ -1,3 +1,5 @@
+# link do zadania
+# https://pl.spoj.com/problems/FCTRL3/
 import sys
 import math
 

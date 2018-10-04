@@ -1,3 +1,5 @@
+# link do zadania
+# https://pl.spoj.com/problems/RNO_DOD/
 import sys
 
 outputs = []

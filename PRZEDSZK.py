@@ -1,3 +1,5 @@
+# link do zadania
+# https://pl.spoj.com/problems/PRZEDSZK/
 import sys
 
 def nwd(a, b):

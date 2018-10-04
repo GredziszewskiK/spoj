@@ -1,3 +1,5 @@
+# link do zadania
+# https://pl.spoj.com/problems/FLAMASTE/
 import sys
 def get_char(last_char, curent_char, counter):
     if counter <= 2:

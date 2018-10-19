@@ -3,6 +3,5 @@
 import sys
 
 line = input().split(' ')[::-1]
-print(line)
 for i in line:
     sys.stdout.write(i + ' ')

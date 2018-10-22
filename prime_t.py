@@ -13,10 +13,5 @@ def is_prime_number(number):
             return 'NIE'
     return 'TAK'
 
-output = []
-number_of_tests = sys.stdin.readline()
-for i in range(int(number_of_tests)):
-    output.append(is_prime_number(sys.stdin.readline()))
-
-for answer in output:
-    sys.stdout.write(answer + '\n')
+for i in range(int(sys.stdin.readline())):
+    sys.stdout.write(is_prime_number(sys.stdin.readline()) + '\n')

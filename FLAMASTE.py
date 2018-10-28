@@ -25,10 +25,6 @@ def get_shortcut(verb):
             output = output + get_char(last_char, char, counter)
     return output
 
-output = []
 number_of_tests = sys.stdin.readline()
 for i in range(int(number_of_tests)):
-    output.append(get_shortcut(sys.stdin.readline()))
-
-for answer in output:
-    sys.stdout.write(answer)
+    sys.stdout.write(get_shortcut(sys.stdin.readline()))
